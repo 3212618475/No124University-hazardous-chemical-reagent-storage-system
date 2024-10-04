@@ -35,11 +35,11 @@
 
 二、项目技术
 ---
-编程语言：Java
-数据库：MySQL
-项目管理工具：Maven
-前端技术：Vue
-后端技术：SpringBoot
+编程语言:Java 
+数据库:MySQL
+项目管理工具:Maven 
+前端技术:VUE、javascript、html、css； 
+后端技术:Spring、SpringMvc、MyBatis
 
 三、运行环境
 ---
